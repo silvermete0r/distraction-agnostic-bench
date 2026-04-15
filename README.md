@@ -10,6 +10,8 @@
 
 * **Kaggle Bench-Task Generation (Code):** https://www.kaggle.com/code/armanzhalgasbayev/distraction-agnostic-bench-18-tasks-gen
 
+![leaderboard-main](assets/leaderboard.png)
+
 **We tested 16 models on 18 tasks of our `distraction-agnostic-benchmark`, and got this leaderboard (by models average peformance):**
 
 | Model                         |   Mean_score |
