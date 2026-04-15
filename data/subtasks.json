@@ -1,0 +1,12 @@
+{
+    "q1": {
+        "question": "How many numbers up to 100 (including it) exist such that when written officially in English, all letters will be lexicographically ordered?",
+        "answer": "1",
+        "explanation": "40 (forty)"
+    },
+    "q2": {
+        "question": "There is the only country whose official national flag is not four-cornered. What is the sum of internal angles of this flag's figure?",
+        "answer": "540",
+        "explanation": "Nepal's flag is unique in the world - it consists of two stacked triangles (a pentagon-like shape). Internal angles sum = (5 - 2) * 180 = 540*"
+    }
+}
