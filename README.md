@@ -54,6 +54,8 @@
 | 16 | K=6 N=24 (Level-3) |        1    | ['gemini-2.5-pro', 'gemini-3.1-pro-preview', 'gemini-3-flash-preview', 'gemma-4-31b-it']                                                                      |                   4 |
 | 17 | K=2 N=12 (Level-1) |        1    | ['gemini-2.5-pro', 'gemini-3.1-pro-preview', 'gemini-2.5-flash', 'gemini-3-flash-preview', 'gemma-4-31b-it']                                                  |                   5 |
 
+## Overview (main)
+
 While most AI benchmarks focus on "accuracy", this track focuses on "attention" - specifically, how a model manages its limited cognitive resources when processing information.
 
 We believe that the ability to pay attention (focus) on key tasks, ignoring unnecessary distractions (such as news / social media) is a key component of intelligence. In cognitive science, the ability to focus on key tasks and ignore distractions is formally known as Executive Attention or Cognitive Control. Dr. Randall Engle’s Executive Attention Theory studies demonstrate that the core difference between people with high fluid intelligence and low fluid intelligence is not memory storage, but the ability to actively maintain focus on a goal while actively inhibiting irrelevant distractions.
