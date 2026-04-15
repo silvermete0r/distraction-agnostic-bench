@@ -59,6 +59,7 @@ In human cognition, attention is an active, dynamic filter. In frontier LLMs (li
 <message source="articles[idx].source.name" author="articles[idx].author" publishedAt="articles[idx].publishedAt">articles[idx].title + "\n" + articles[idx].description</message>
 ```
 * LLM must understand that this type of messages must be ignored regardless where there are placed.
+* Code for fetching news (13 April, 2026 - news used): [fetch_distraction_news.py](fetch_distraction_news.py)
 
 ## Tests Construction Logic
 
