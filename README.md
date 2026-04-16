@@ -75,6 +75,8 @@ In human cognition, attention is an active, dynamic filter. In frontier LLMs (li
     * **Level-1:** **22 language changes**, and the number of distractors will change by quantity: 12, 24, 36, 48, 60, 72.
     * **Level-2:** **44 language changes**, and the number of distractors will change by quantity: 12, 24, 36, 48, 60, 72.
     * **Level-3:** **66 language changes**, and the number of distractors will change by quantity: 12, 24, 36, 48, 60, 72.
+5. **Subtasks (english):**
+Sub-tasks are stored in [subtasks.json](https://github.com/silvermete0r/distraction-agnostic-bench/blob/main/data/subtasks.json) and are designed as simple questions that any frontier model (ChatGPT, Gemini, Claude) can easily answer in isolation, ensuring that any failure is purely a result of attentional drift, not a lack of reasoning capability.
 
 ### Important Notes
 
