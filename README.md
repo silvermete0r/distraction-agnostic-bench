@@ -8,6 +8,8 @@
 
 * **Community Benchmark Link:** https://www.kaggle.com/benchmarks/armanzhalgasbayev/distraction-agnostic-bench 
 
+* **Kaggle Competition Writeup:** https://www.kaggle.com/competitions/kaggle-measuring-agi/writeups/distraction-agnostic-benchmark
+
 * **Kaggle Bench-Task Generation (Code):** https://www.kaggle.com/code/armanzhalgasbayev/distraction-agnostic-bench-18-tasks-gen
 
 ![leaderboard-main](assets/leaderboard.png)
